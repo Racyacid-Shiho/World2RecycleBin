@@ -1,20 +1,20 @@
 {
 	"schemaVersion": 1,
-	"id": "gimme-a-choice",
+	"id": "world2recyclebin",
 	"version": "${version}",
-	"name": "Gimme A Choice",
+	"name": "World2RecycleBin",
 	"description": "When you delete a world, it isn't deleted, but moved to the recycle bin.",
 	"authors": [
 		"Racyacid"
 	],
 	"contact": {
-		"homepage": "https://github.com/Racyacid-Shiho/GimmeAChoice",
-		"sources": "https://github.com/Racyacid-Shiho/GimmeAChoice"
+		"homepage": "https://github.com/Racyacid-Shiho/World2RecycleBin",
+		"sources": "https://github.com/Racyacid-Shiho/World2RecycleBin"
 	},
 	"license": "MIT",
 	"environment": "client",
 	"mixins": [
-		"gimme-a-choice.mixins.json"
+		"world2recyclebin.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.10",

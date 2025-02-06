@@ -1,4 +1,4 @@
-package cn.racyacid.gimeachoi.mixin;
+package cn.racyacid.mixin;
 
 import com.llamalad7.mixinextras.sugar.Local;
 import com.sun.jna.platform.FileUtils;
