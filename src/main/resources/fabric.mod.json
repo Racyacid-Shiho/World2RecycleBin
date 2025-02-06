@@ -8,18 +8,17 @@
 		"Racyacid"
 	],
 	"contact": {
-		"homepage": "",
-		"sources": ""
+		"homepage": "https://github.com/Racyacid-Shiho/GimmeAChoice",
+		"sources": "https://github.com/Racyacid-Shiho/GimmeAChoice"
 	},
 	"license": "MIT",
-	"environment": "*",
+	"environment": "client",
 	"mixins": [
 		"gimme-a-choice.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.10",
-		"minecraft": "*",
-		"java": ">=21",
-		"fabric-api": "*"
+		"minecraft": ">=1.19",
+		"java": ">=21"
 	}
 }
