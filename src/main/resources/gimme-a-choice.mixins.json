@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "cn.racyacid.gimeachoi.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"SessionMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

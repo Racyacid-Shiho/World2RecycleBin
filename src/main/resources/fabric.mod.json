@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "gimme-a-choice",
+	"version": "${version}",
+	"name": "Gimme A Choice",
+	"description": "When you delete a world, it isn't deleted, but moved to the recycle bin.",
+	"authors": [
+		"Racyacid"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "MIT",
+	"environment": "*",
+	"mixins": [
+		"gimme-a-choice.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "*",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
